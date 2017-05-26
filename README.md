@@ -50,7 +50,7 @@ export function popAction() {
 }
 ```
 ----------------------
-#reducers
+# reducers
 ```javascript
 function todo(state = initialNavState, action = {}) {
     // Simply return the original `state` if `nextState` is null or undefined.
